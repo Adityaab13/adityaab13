@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
@@ -145,7 +145,7 @@ const educationInfo = {
       logo: require("./assets/images/Dsce.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "August 2016 - May 2020",
-      desc: "Participated in the research of Blockchain and published a paper that has been cited by more than 50 more papers",
+      desc: "Participated in the research of Blockchain and published a paper that has been cited by more than 7 more papers, Link : https://ieeexplore.ieee.org/document/9074197",
       descBullets: ["Achieved FirstClass with Distinction honour"
     , "Participated in various hackathons and competitions"
     , "Won the 1st prize in the Hackathon conducted by the college"]
